@@ -20,6 +20,3 @@ Here are some ideas to get you started:
 - ![Profile views](https://gpvc.arturio.dev/Ez-Tee)
 - [![GitHub followers](https://img.shields.io/github/followers/Ez-Tee.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Ez-Tee?tab=followers)
 
-# MOST USED LANGUAGE
-
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Ez-Tee&theme=blue-yellow)
