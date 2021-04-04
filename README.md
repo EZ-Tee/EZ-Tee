@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # MY STATUS
 
 ![Supun's github stats](https://github-readme-stats.vercel.app/api?username=Ez-Tee&show_icons=true&theme=midnight-purple)
-- ![Profile views](https://gpvc.arturio.dev/imjanindu)
+- ![Profile views](https://gpvc.arturio.dev/Ez-Tee)
 - [![GitHub followers](https://img.shields.io/github/followers/Ez-Tee.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Ez-Tee?tab=followers)
 
 # MOST USED LANGUAGE
